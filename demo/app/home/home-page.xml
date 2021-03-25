@@ -1,0 +1,24 @@
+<Page
+	xmlns="http://schemas.nativescript.org/tns.xsd"
+	loaded="pageLoaded"
+	class="page"
+  xmlns:ui="nativescript-store-ratings"
+>
+  <ActionBar class="action-bar">
+    <Label
+      class="action-bar-title"
+      text="In-App store ratings"
+    />
+  </ActionBar>
+
+  <StackLayout class="p-20">
+    <Button
+      tap="{{initStoreRating}}"
+      text="Rate me!"
+      fontSize="30"
+      height="100"
+      width="200"
+      backgroundColor="#cccccc"
+    />
+  </StackLayout>
+</Page>

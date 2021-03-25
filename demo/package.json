@@ -1,0 +1,19 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "nativescript-store-ratings": "file:../src",
+    "nativescript-theme-core": "~1.0.6",
+    "@nativescript/core": "7.0.0",
+    "@nativescript/webpack": "3.0.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "7.0.1",
+    "@nativescript/ios": "7.1.0",
+    "typescript": "3.9.7"
+  },
+  "gitHead": "1964ea9e8ca1a0518e0d6370781eedcf6c23db42",
+  "readme": "NativeScript Application",
+  "main": "app.js"
+}
