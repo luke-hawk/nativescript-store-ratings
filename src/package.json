@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-store-ratings",
-	"version": "1.0.3",
+	"version": "1.0.0",
 	"description": "Simple NativeScript Plugin to integrate native In-App Store reviews",
 	"main": "store-ratings",
 	"typings": "index.d.ts",
