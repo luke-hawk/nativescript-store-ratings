@@ -1,9 +1,10 @@
 /* Include.gradle configuration: http://docs.nativescript.org/plugins/plugins#includegradle-specification */
 
 android {
-	
+
 }
 
 dependencies {
-    implementation 'com.google.android.play:core:1.10.0'
+	implementation 'com.google.android.gms:play-services-tasks:18.2.0'
+	implementation 'com.google.android.play:review:2.0.1'
 }
